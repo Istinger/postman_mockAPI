@@ -5,9 +5,10 @@
 - Consumir la API con Postman (GET, POST, PUT, PATCH, DELETE).
 - Documentar evidencia con capturas.
 
-## MockAPI
-- Base URL: **https://6900166be02b16d17540193d.mockapi.io/api/v1/:endpoint**  
-- Recursos:
+## Enlace de la API MockAPI.io
+- Artistas: [https://6900166be02b16d17540193d.mockapi.io/api/v1/artists](https://6900166be02b16d17540193d.mockapi.io/api/v1/artists)
+- Canciones: [https://6900166be02b16d17540193d.mockapi.io/api/v1/songs](https://6900166be02b16d17540193d.mockapi.io/api/v1/songs)
+- Metodos REQUEST HTTP:
   - GET ALL SONGS: `https://6900166be02b16d17540193d.mockapi.io/api/v1/songs`
   - POST SONGS : `https://6900166be02b16d17540193d.mockapi.io/api/v1/songs`
   - PUT SONGS:`https://6900166be02b16d17540193d.mockapi.io/api/v1/songs](https://6900166be02b16d17540193d.mockapi.io/api/v1/songs/(#id)`
